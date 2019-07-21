@@ -1,0 +1,6 @@
+framework module Pods_leeMailUITests {
+  umbrella header "Pods-leeMailUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
